@@ -1,1 +1,1 @@
-{}
+{"homes-marker-set":{"label":"Player Homes Set","toggleable":true,"defaultHidden":false,"sorting":0,"markers":{"anthonys-home-marker":{"classes":[],"detail":"","icon":"assets/poi.svg","anchor":{"x":1903,"y":106},"minDistance":10.0,"maxDistance":1.0E7,"type":"poi","label":"Anthony\u0027s Home","position":{"x":1903,"y":106,"z":-3480},"sorting":0,"listed":true}}}}
